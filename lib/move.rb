@@ -14,6 +14,6 @@ end
 
 
 def move(board, position, value = "X")
-
+position = 0
 
 end
