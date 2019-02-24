@@ -13,4 +13,4 @@ square = gets.strip
 
 index = input_to_index(square)
 
-move(board,index,
+move(board,index,value)
