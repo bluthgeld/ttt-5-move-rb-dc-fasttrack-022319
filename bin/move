@@ -12,3 +12,4 @@ puts "Where would you like to go?"
 square = gets.strip
 
 index = input_to_index(square)
+
