@@ -13,6 +13,9 @@ def input_to_index(user_input)
 end
 
 board = [" ", " ", " "]
+
+value = "X"
+
 def move(array, index, value)
   value = "O"
 end
