@@ -14,8 +14,7 @@ end
 
 board = [" ", " ", " "]
 
-value = "X"
 
-def move(array, index, value)
-  value = "O"
+def move(board, position, value)
+
 end
